@@ -1,10 +1,7 @@
-# Arsonix Studios
-## Welcome.
+## **About Us**
+### We are a small development group making things.
 
-### About Us
-We are a small development group making things.
+## **Products**
 
-### Products
-
-- HighOS (coming soon)
-- Slider (coming soon)
+### - HighOS (coming soon)
+### - Slider (coming soon)
